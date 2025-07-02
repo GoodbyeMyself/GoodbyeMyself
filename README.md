@@ -29,4 +29,4 @@
     </a>
 </p>
 
-![GoodbyeMyself's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodbyeMyself&theme=radical)
+![GoodbyeMyself's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodbyeMyself&theme=tokyonight)
