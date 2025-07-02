@@ -28,3 +28,5 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sat Naing's LinkedIn Profile" />
     </a>
 </p>
+
+![GoodbyeMyself's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodbyeMyself&theme=radical)
