@@ -10,12 +10,6 @@
 - 🌟 I can help you solve technical problems. You can contact me at 15500409521@163.com
 
 
-很高兴你能关注我，我是一个持续输出干货的博主~
-
-* ⚡ 公众号：[ 小马哥的 JavaScript 博客 ]
-* 📫 微信号：[ xxx ]
-* 😄 [ 小马哥答读者问 ]
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
