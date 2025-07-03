@@ -1,3 +1,5 @@
+![github-header-image](https://raw.githubusercontent.com/GoodbyeMyself/GoodbyeMyself/refs/heads/main/background.png)
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yunlong+Ma.;I'm+a+full-stack+developer." alt="typing intro">
 </p>
