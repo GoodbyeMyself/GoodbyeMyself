@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yunlong+Ma.;I'm+a+full-stack+developer." alt="typing intro">
+</p>
+
 ### Hi、 我是 YunLong Ma 👋
 
 - 💼 I’m currently working as a senior front-end development engineer in an enterprise
