@@ -11,6 +11,8 @@
 
 - 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [sponsoring me](https://github.com/GoodbyeMyself).
 
+- 🚀 I prefer to do challenging things. If you have technical problems that you can't solve, I can try to help you solve them
+
 
 <h3 align="left">Connect with me:</h3>
 
