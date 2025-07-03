@@ -9,7 +9,7 @@
   
 - 🌟 I can help you solve technical problems. You can contact me at 15500409521@163.com
 
-- 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [GoodbyeMyself me]([https://github.com/sponsors/satnaing](https://github.com/GoodbyeMyself)).
+- 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [sponsoring me](https://github.com/GoodbyeMyself).
 
 
 <h3 align="left">Connect with me:</h3>
