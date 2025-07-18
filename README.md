@@ -13,8 +13,7 @@
 
 - 🚀 I prefer to do challenging things. If you have technical problems that you can't solve, I can try to help you solve them
 
-<p></p>
-<p></p>
+##
 
 <h3 align="left">Connect with me:</h3>
 
